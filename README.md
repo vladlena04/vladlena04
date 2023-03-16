@@ -1,11 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="100"/>
-<div id="badges">
-    <a href="[linkedin](https://www.linkedin.com/in/vladlena-bonk-7172a49a/)">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=vladlena04&style=flat-square&color=blue" alt=""/>
   <h1>
    👩‍💻 Hello everyone! let's code! 👩‍💻
   </h1>
@@ -17,8 +10,11 @@ I am a AQA engineer from Russia.
 
 - :telescope: In my free time, I learning Node.js, making little projects for fun.
 
-- :mailbox:How to reach me: [linkedin](https://www.linkedin.com/in/vladlena-bonk-7172a49a/) /
-                            [telegram](https://t.me/wldlenus)
+- :mailbox: How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladlena-bonk-7172a49a/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wldlenus)
+<a href="mailto:eltarya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
@@ -35,5 +31,14 @@ I am a AQA engineer from Russia.
 </div>
 
 ---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladlena04&theme=dark&background=000000)](https://git.io/vladlena04)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladlena04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladlena04&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="vladlena04" height="150px"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=vladlena04&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" height="150px"></p>
+
+![Snake animation](https://github.com/MaksimNikolaev/NikolaevMaksim/blob/main/Images/github-contribution-grid-snake.svg)
