@@ -5,7 +5,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a AQA engineer from Russia.
+I am an AQA engineer from Russia.
 - :zap: I’m working as a Quality Assurance Engineer for 6+ years and good in this. Mostly it's work with frontend and backend in web applications. 3 years of JS/TS web automation.
 
 - :telescope: In my free time, I learning Node.js, making little projects for fun.
