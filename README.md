@@ -6,9 +6,9 @@
 
 ### :woman_technologist: About Me :
 I am an AQA engineer from Russia.
-- :zap: I’m working as a Quality Assurance Engineer for 6+ years and good in this. Mostly it's work with frontend and backend in web applications. 3 years of JS/TS web automation.
+- :zap:  I have been working as a Quality Assurance Engineer for over 8 years, mostly focusing on frontend and backend work in web applications, including 4 years of JS/TS web automation.
 
-- :telescope: In my free time, I learning Node.js, making little projects for fun.
+- :telescope: In my free time, I am learning Node.js and working on pet projects just for fun.
 
 - :mailbox: How to reach me:
 
